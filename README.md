@@ -1,5 +1,5 @@
 # Inventory-Management-System
-Inventory Management Sstem is made using json
+Inventory Management System is made using json
 
 
 Record of 30 items having 5 values each is taken
